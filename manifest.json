@@ -6,7 +6,6 @@
       "matches": [ "*://*/*" ]
     }
   ],
-  "permissions": ["activeTab"],
   "description": "Change your cursor to a circle",
   "icons": {
     "128": "assets/icon128.png",
@@ -16,5 +15,5 @@
   "manifest_version": 2,
   "name": "Circle cursor",
   "homepage_url": "https://github.com/coxmi/chrome-circle-cursor",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
