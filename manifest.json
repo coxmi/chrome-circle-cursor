@@ -6,6 +6,7 @@
       "matches": [ "*://*/*" ]
     }
   ],
+  "permissions": ["activeTab"],
   "description": "Change your cursor to a circle",
   "icons": {
     "128": "assets/icon128.png",
