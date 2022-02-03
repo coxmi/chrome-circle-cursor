@@ -12,7 +12,7 @@
     pointer-events: none;
     /*mix-blend-mode: difference;*/
     transition: opacity 0.5s, transform 0.1s;
-    z-index: 99;
+    z-index: 2147483638;
 }
 
 #cursor.mousedown {
